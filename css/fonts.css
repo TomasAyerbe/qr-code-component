@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Outfit400';
+    src: url(../fonts/Outfit-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Outfit700';
+    src: url(../fonts/Outfit-Bold.ttf);
+}
