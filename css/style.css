@@ -38,8 +38,6 @@
 
 .qr {
     width: 90%;
-    display: flex;
-    justify-content: center;
 }
 
 .qr img {
@@ -48,7 +46,7 @@
 }
 
 .text {
-    width: 80%;
+    width: 85%;
     text-align: center;
 }
 
