@@ -29,6 +29,7 @@ html {
 .card {
     border-radius: 20px;
     padding: 8px 0;
+    box-shadow: 0px 10px 10px var(--grayish-blue);
 }
 
 .card {
@@ -56,6 +57,7 @@ html {
 .text h1 {
     font-family: var(--outfit-bold);
     color: var(--dark-blue);
+    font-size: 1.46rem;
     margin-bottom: 16px;
 }
 
